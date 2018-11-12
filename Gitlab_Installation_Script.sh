@@ -1,9 +1,9 @@
 ##############################################################
 # Creator: Necrolord
 # Version: 0.0.1
-# Date: 12/10/2018
-# Goal: LAMP Server installation.
-# Additional Notes: Please refer the ADDITIONAL NOTES file.
+# Date: 13/10/2018
+# Goal: Gitlab installation.
+# Additional Notes:
 ##############################################################
 #!/usr/bin/bash
 
